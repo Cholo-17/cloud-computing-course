@@ -1,13 +1,16 @@
 # About Me
 
-## Introduction
+## Name
+Gammie Castillo
 
-Hello! My name is Gammie Castillo. I am a 4th Year IT student. I am interested in learning how cloud technologies, Linux systems, and other computing technologies are used in real-world environments.
+## Course
+Bachelor of Science in Information Technology
 
-## My Goals
+## Subject
+CCM101 – Cloud Computing
 
-My goal is to improve my technical skills in Linux, cloud computing, networking, system administration, and other technologies related to cloud infrastructure.
+## About Me
+I am an Information Technology student interested in learning about cloud computing, Linux, and modern technologies.
 
-## My Expectations
-
-I expect this course to help me understand how cloud computing works and give me practical experience using tools and platforms used in cloud environments.
+## My Goal
+My goal is to improve my technical skills and gain practical knowledge in cloud computing and cloud infrastructure.
